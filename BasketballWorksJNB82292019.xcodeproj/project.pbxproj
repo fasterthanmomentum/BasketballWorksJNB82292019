@@ -11,7 +11,6 @@
 		88136E742318B8F700673FC7 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 88136E732318B8F700673FC7 /* art.scnassets */; };
 		88136E762318B8F700673FC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88136E752318B8F700673FC7 /* ViewController.swift */; };
 		88136E792318B8F700673FC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88136E772318B8F700673FC7 /* Main.storyboard */; };
-		88136E7B2318B8F900673FC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88136E7A2318B8F900673FC7 /* Assets.xcassets */; };
 		88136E7E2318B8F900673FC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88136E7C2318B8F900673FC7 /* LaunchScreen.storyboard */; };
 		88136E892318B8F900673FC7 /* BasketballWorksJNB82292019Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88136E882318B8F900673FC7 /* BasketballWorksJNB82292019Tests.swift */; };
 		88136E942318B8F900673FC7 /* BasketballWorksJNB82292019UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88136E932318B8F900673FC7 /* BasketballWorksJNB82292019UITests.swift */; };
@@ -40,7 +39,6 @@
 		88136E732318B8F700673FC7 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		88136E752318B8F700673FC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		88136E782318B8F700673FC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		88136E7A2318B8F900673FC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88136E7D2318B8F900673FC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88136E7F2318B8F900673FC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88136E842318B8F900673FC7 /* BasketballWorksJNB82292019Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasketballWorksJNB82292019Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,7 +101,6 @@
 				88136E732318B8F700673FC7 /* art.scnassets */,
 				88136E752318B8F700673FC7 /* ViewController.swift */,
 				88136E772318B8F700673FC7 /* Main.storyboard */,
-				88136E7A2318B8F900673FC7 /* Assets.xcassets */,
 				88136E7C2318B8F900673FC7 /* LaunchScreen.storyboard */,
 				88136E7F2318B8F900673FC7 /* Info.plist */,
 			);
@@ -190,6 +187,9 @@
 		88136E662318B8F700673FC7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 1030;
 				LastUpgradeCheck = 1030;
 				ORGANIZATIONNAME = "JOY BEST";
@@ -234,7 +234,6 @@
 			files = (
 				88136E742318B8F700673FC7 /* art.scnassets in Resources */,
 				88136E7E2318B8F900673FC7 /* LaunchScreen.storyboard in Resources */,
-				88136E7B2318B8F900673FC7 /* Assets.xcassets in Resources */,
 				88136E792318B8F700673FC7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
